@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.swp
+.env
+.idea/
+.vscode/
+.DS_Store
+
+# Index output
+/data/
